@@ -20,9 +20,7 @@ No signups. No tracking. No redirections. Just simple QR codes.
 
 ## 📸 Preview
 
-<h2>📸 Preview</h2>
-
-<img src="preview.png" alt="QR Code Generator Preview" width="200" />
+![screenshot](assets/screenshot.png)
 
 ---
 
