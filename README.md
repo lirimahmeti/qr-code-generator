@@ -20,7 +20,7 @@ No signups. No tracking. No redirections. Just simple QR codes.
 
 ## 📸 Preview
 
-![screenshot](preview.png)
+![screenshot](assets/screenshot.png)
 
 ---
 
