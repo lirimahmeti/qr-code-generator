@@ -1,9 +1,9 @@
-# nologinqr.com – Free QR Code Generator
+# simpleqrgen.com – Free QR Code Generator
 
-nologinqr.com is a fast, minimalist, and privacy-first QR code generator.  
+simpleqrgen.com is a fast, minimalist, and privacy-first QR code generator.  
 No signups. No tracking. No redirections. Just simple QR codes.
 
-🌐 Live site: https://nologinqr.com
+🌐 Live site: https://simpleqrgen.com
 
 ---
 
